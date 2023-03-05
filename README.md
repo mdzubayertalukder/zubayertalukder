@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-vr-glasses-technology-wisdom-picture-image_918797.jpg)](https://mdzubayertalukder.me)
+![logo](https://github.com/mdzubayertalukder/zubayertalukder/blob/main/pngtree-vr-glasses-technology-wisdom-picture-image_918797.jpg)
 <h1 align="center">Hi 👋, I'm MD ZUBAYER TALUKDER</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt "VR" width="400" src="https://cdn.pixabay.com/animation/2022/09/09/08/45/08-45-56-711_512.gif">
